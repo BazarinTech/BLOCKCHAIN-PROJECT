@@ -1,0 +1,27 @@
+# Bytecode / distribution cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+venv/
+dist/
+build/
+
+# Unit test / coverage reports
+*.rej
+.coverage
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Others
+*.log
+*.orig
+*.DS_Store
+
+# OS generated files #
+Thumbs.db
